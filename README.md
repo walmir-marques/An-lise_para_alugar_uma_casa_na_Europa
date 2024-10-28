@@ -15,3 +15,5 @@
   - Após os filtros, foi agrupado feito um agrupamento da média dos preços por cidade e verificado que os valores mais baixos estão na cidade de Porto.
   - Com a cidade definida, foi feito um agrupamento por andar, para verificar a média dos preços de acordo com o andar do imóvel.
   - Analisando o agrupamento anterior, chegamos a conclusão de que o os apartamento com maior custo benefício para o cliente, são os que estão localizados no 16 andar, o que nos retornou 2 opções para o cliente.
+
+
